@@ -29,11 +29,17 @@ I'm a Frontend Developer with 4+ years of experience. My general responsibilitie
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git)
 
 
-
 Some projects: <br />
 [Zerone Social Network](https://github.com/Chuchoss/SocialNetwork--Vue.js) / This is a social network for Developers (Vue + Vuex + Websockets) <br />
 [Pomadoro Tusk Runner](https://github.com/Chuchoss/SocialNetwork--Vue.js) / Task runner based on pomadoro system created React.js + Redux  <br />
 [Sit Down Please - MPA](https://github.com/Chuchoss/SitDownPls) / Furniture online - shop based on SASS + Gulp + JS native <br />
+
+
+#### Contact me
+![telegram](https://img.shields.io/badge/-@DenisKolosovFRD-0D1117?style=for-the-badge&logo=telegram)
+![https://vk.com/chucho](https://img.shields.io/badge/-vk.com/chucho-0D1117?style=for-the-badge&logo=vk)
+![https://mail.google.com/](https://img.shields.io/badge/-kolosovdenis2017@gmail.com-0D1117?style=for-the-badge&logo=gmail)
+
 
 
 
