@@ -1,7 +1,16 @@
 ### Hi, I`m Denis! 👋
 #### Front-End developer from Saint-Petersburg |
-I`m a motion/media designer by education, but over time, I realized that I prefer solving a problem than doing creative work and talking about tastes. I decided to try programming, and frontend was the closest to my interests. Today I spend all my free and busy time studying development and currently:
-I`m an ex-motion/media designer (computer scientist- designer by education). During my studies, I created Flash applications using the ActionScript language - this was the first time I touched programming. And I liked it :) But it took a few years before I decided to take it seriously.
+I'm a Frontend Developer with 4+ years of experience. My general responsibilities are as follows:
+- Build and maintain stable and responsive websites.
+- Bringing mock-ups to life using HTML, CSS, JavaScript (using React.js and modern libraries).
+- Collaborating closely with the team to support projects during all phases of delivery.
+- Building websites and apps that are responsive and usable.
+- Monitoring website performance and rectifying front-end-related issues.
+- Communicating technical issues in an understandable manner to the team and clients.
+- Identifying innovative ideas and proof of concepts according to project requirements.
+- Maintaining an organized workflow using a project management tool (GitHub, Bitbucket).
+- Testing to identify bugs and technical issues before and after deploying.
+- Documenting bug reports, tickets and any code changes.
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript) 
