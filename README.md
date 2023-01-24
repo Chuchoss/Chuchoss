@@ -24,6 +24,8 @@ I`m an ex-motion/media designer (computer scientist- designer by education). Dur
 Some projects: <br />
 [Zerone Social Network](https://github.com/Chuchoss/SocialNetwork--Vue.js) / This is a social network for Developers (Vue + Vuex + Websockets) <br />
 [Pomadoro Tusk Runner](https://github.com/Chuchoss/SocialNetwork--Vue.js) / Task runner based on pomadoro system created React.js + Redux  <br />
+[Sit Down Please - MPA](https://github.com/Chuchoss/SitDownPls) / Furniture online - shop based on SASS + Gulp + JS native <br />
+
 
 
 
