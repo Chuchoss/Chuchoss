@@ -18,3 +18,11 @@ I`m an ex-motion/media designer (computer scientist- designer by education). Dur
 ![Webpack](https://img.shields.io/badge/-Webpack-0D1117?style=for-the-badge&logo=Webpack)
 ![ESLint](https://img.shields.io/badge/-ESLint-0D1117?style=for-the-badge&logo=ESLint)
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git)
+
+
+
+Some projects:
+[пример](https://github.com/Chuchoss/SocialNetwork--Vue.js) / This is a social network for Developers (Vue + Vuex + Websockets)
+[пример](https://github.com/Chuchoss/SocialNetwork--Vue.js) / Task runner based on pomadoro system created React.js + Redux 
+
+nikname katkopikat Instagram linkedin Gmail
