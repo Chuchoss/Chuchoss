@@ -25,4 +25,5 @@ Some projects:
 [пример](https://github.com/Chuchoss/SocialNetwork--Vue.js) / This is a social network for Developers (Vue + Vuex + Websockets)
 [пример](https://github.com/Chuchoss/SocialNetwork--Vue.js) / Task runner based on pomadoro system created React.js + Redux 
 
-nikname katkopikat Instagram linkedin Gmail
+
+
