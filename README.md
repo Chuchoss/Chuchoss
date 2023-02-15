@@ -28,10 +28,9 @@ I'm a Frontend Developer with 4+ years of experience. My general responsibilitie
 ![ESLint](https://img.shields.io/badge/-ESLint-0D1117?style=for-the-badge&logo=ESLint)
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git)
 
-
 Some projects: <br />
 [Zerone Social Network](https://github.com/Chuchoss/SocialNetwork--Vue.js) / This is a social network for Developers (Vue + Vuex + Websockets) <br />
-[Pomadoro Tusk Runner](https://github.com/Chuchoss/SocialNetwork--Vue.js) / Task runner based on pomadoro system created React.js + Redux  <br />
+[Pomadoro Tusk Runner](https://github.com/Chuchoss/TaskRunner-React) / Task runner based on pomadoro system created React.js + Redux  <br />
 [Sit Down Please - MPA](https://github.com/Chuchoss/SitDownPls) / Furniture online - shop based on SASS + Gulp + JS native <br />
 
 
