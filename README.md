@@ -35,7 +35,7 @@ Some projects: <br />
 
 
 #### Contact me
-![telegram](https://img.shields.io/badge/-@DenisKolosovFRD-0D1117?style=for-the-badge&logo=telegram)
+![telegram](https://img.shields.io/badge/-@Den_Kolosov-0D1117?style=for-the-badge&logo=telegram)
 ![https://vk.com/chucho](https://img.shields.io/badge/-vk.com/chucho-0D1117?style=for-the-badge&logo=vk)
 ![https://mail.google.com/](https://img.shields.io/badge/-kolosovdenis2017@gmail.com-0D1117?style=for-the-badge&logo=gmail)
 
